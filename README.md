@@ -8,5 +8,5 @@ Built a to do list app using .Net maui.
 💻 __Desktop View__    
 
 	 
-<img height="600" width="600" alt="DesktopImage" src="https://github.com/Elijahlekomo/ToDoList/blob/main/Desktop%20Image.png">
+<img height="450" width="600" alt="DesktopImage" src="https://github.com/Elijahlekomo/ToDoList/blob/main/Desktop%20Image.png">
 
