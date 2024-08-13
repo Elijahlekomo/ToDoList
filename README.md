@@ -3,5 +3,5 @@ Built a to do list app using .Net maui.
 📱 __Mobile View__    
 
 	 
-<img width="486" alt="PoultryImage" src="https://github.com/Elijahlekomo/ToDoList/blob/main/Mobile%20Image.png">
+<img height="500" width="386" alt="PoultryImage" src="https://github.com/Elijahlekomo/ToDoList/blob/main/Mobile%20Image.png">
 
