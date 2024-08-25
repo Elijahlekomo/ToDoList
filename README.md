@@ -1,5 +1,5 @@
 ## __About the project__  
-Built a to do list app using .Net maui.
+Built a to do list app using C# and .Net maui.
 ## Screenshot of the project     
 📱 __Mobile View__    
 
